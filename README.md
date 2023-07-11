@@ -9,6 +9,7 @@
 ### 🔭Learning
 - Artificial Intelligence, machine learning, deep learning: Python, Tensorflow, Kaggle
 - App development: Flutter, Dart
+- Game development: Godot, GDScript
 
 ### 🧰 Languages and Tools
 
