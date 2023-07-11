@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-**'Digital Craftsman (Developer)'**
+`Digital Craftsman (AI + ML / App development)`
 
-I'm an undergraduate student at University of Washington Seattle majoring in CS. 
+### 🌱About
+- University of Washington Seattle ungerdraguate, majoring in CS.
+- I am part of Project GIVEN, helping develop DocZilla - a telemedicine app
+
+### 🔭Learning
 <!--
 **esther0402/esther0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
