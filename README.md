@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+**'Digital Craftsman (Developer)'**
+
+I'm an undergraduate student at University of Washington Seattle majoring in CS. 
 <!--
 **esther0402/esther0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
