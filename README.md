@@ -9,6 +9,14 @@
 ### 🔭Learning
 - Artificial Intelligence, machine learning, deep learning (Python, Tensorflow, Kaggle)
 - App development (Flutter)
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<br />
+
+#
 <!--
 **esther0402/esther0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
