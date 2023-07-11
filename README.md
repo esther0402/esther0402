@@ -3,8 +3,8 @@
 `Digital Craftsman (AI + ML / App development)`
 
 ### 🌱About
-- University of Washington Seattle ungerdraguate, majoring in CS.
-- I am part of Project GIVEN, helping develop DocZilla - a telemedicine app
+- University of Washington Seattle ungerdraguate / CS major
+- Member of Project GIVEN, helping develop DocZilla - a telemedicine app
 
 ### 🔭Learning
 - Artificial Intelligence, machine learning, deep learning: Python, Tensorflow, Kaggle
