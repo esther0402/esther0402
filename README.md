@@ -7,6 +7,8 @@
 - I am part of Project GIVEN, helping develop DocZilla - a telemedicine app
 
 ### 🔭Learning
+- Artificial Intelligence, machine learning, deep learning (Python, Tensorflow, Kaggle)
+- App development (Flutter)
 <!--
 **esther0402/esther0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
