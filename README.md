@@ -4,12 +4,10 @@
 
 ### 🌱About
 - University of Washington Seattle ungerdraguate / CS major
-- Member of Project GIVEN, helping develop DocZilla - a telemedicine app
 
 ### 🔭Learning
 - Artificial Intelligence, machine learning, deep learning: Python, Tensorflow, Kaggle
 - App development: Flutter, Dart
-- Game development: Godot, GDScript
 
 ### 🧰 Languages and Tools
 
