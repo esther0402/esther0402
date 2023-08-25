@@ -3,7 +3,7 @@
 `Digital Craftsman (AI + ML / App development)`
 
 ### 🌱About
-- University of Washington Seattle ungerdraguate / CS major
+- University of Washington Seattle ungerdraguate [CS major]
 
 ### 🔭Learning
 - Artificial Intelligence, machine learning, deep learning: Python, Tensorflow, Kaggle
