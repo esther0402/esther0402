@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-`Digital Craftsman (AI + ML / App development)`
+`Digital Craftsman [AI,ML,DS / Mobile development (hobby)]`
 
 ### 🌱About
 - CS major in University of Washington Seattle, class of 2025
